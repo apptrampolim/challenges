@@ -29,5 +29,8 @@ O retorno de todos os endpoins deve ser um json com os dados necessários.
 A escolha para todos é livre.
 
 
+Todos os dados de pokémons podem ser encontrados em: https://pokeapi.co
+
+
 
 Boa sorte! :)
